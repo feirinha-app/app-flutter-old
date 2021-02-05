@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "487529104363",
+    "project_id": "lista-compras-ba165",
+    "storage_bucket": "lista-compras-ba165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487529104363:android:167f3c0cb83a40265f4fae",
+        "android_client_info": {
+          "package_name": "br.com.lidani.listacompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487529104363-ee1l7a3r6sdtv8is4gd1q09o3gqvj6m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qv-87-hqP--WS5TpkveRDzDmvXDBmGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487529104363-ee1l7a3r6sdtv8is4gd1q09o3gqvj6m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487529104363-nnu8k79f837cndcibnooimso2mq9a2sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.lidani.lista-compras"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
