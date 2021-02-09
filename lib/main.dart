@@ -15,7 +15,7 @@ class App extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomePage(title: 'Listas de compras'),
+      home: HomePage(title: 'Suas Listas'),
     );
   }
 }
