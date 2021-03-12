@@ -1,4 +1,4 @@
-# listacompras
+# Feirinha
 
 A new Flutter project.
 
