@@ -11,6 +11,6 @@ class CList {
   final List<ListItem> items;
 
   factory CList.fromDocument(DocumentSnapshot snapshot) {
-    return CList(key: snapshot.documentID, title: snapshot.data['title']);
+    return CList(key: snapshot.get('documentID'), title: snapshot.get('title'));
   }
 }
