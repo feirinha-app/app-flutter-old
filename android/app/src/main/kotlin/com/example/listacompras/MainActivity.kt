@@ -1,4 +1,4 @@
-package com.example.listacompras
+package br.dev.lists
 
 import io.flutter.embedding.android.FlutterActivity
 

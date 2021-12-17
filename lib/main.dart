@@ -1,5 +1,5 @@
+import 'package:lists/pages/home.dart';
 import 'package:flutter/material.dart';
-import 'package:listacompras/pages/home.dart';
 
 void main() {
   runApp(App());
@@ -9,7 +9,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Lista de compras',
+      title: 'Lists!',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,

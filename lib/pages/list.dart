@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:listacompras/models/market_list.dart';
+import 'package:lists/models/list.dart';
 
 class ListPage extends StatefulWidget {
   ListPage({Key key, this.marketList}) : super(key: key);
 
-  final MarketList marketList;
+  final CList marketList;
 
   @override
   _ListPageState createState() => _ListPageState();
